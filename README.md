@@ -9,3 +9,6 @@
 # 연락처
 Email : <a href="mailo:anid@anid.ga">anid@anid.ga</a><br>
 Discord : anid#0278 or <a href="https://discord.gg/eTWsjKR2tm">anid's Discord Server</a>
+# 좋아하는 색상
+HEX Color : #ABCDFF
+Color : 하늘색
